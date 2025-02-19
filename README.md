@@ -52,10 +52,7 @@ For a **detailed schema** with attributes and relationships, check our **Project
 git clone https://github.com/Muneeb00alii/airport-management-system.git
 cd airport-management-system
 
-##📜 License
-This project is for educational purposes only and follows FCCU academic guidelines.
-
-##📩 Contact
+📩 Contact
 For any queries or collaboration, feel free to reach out:
 
-##📧 Muneeb Ali – **muneeb00ali@gmail.com**
+Muneeb Ali – **muneeb00ali@gmail.com**
